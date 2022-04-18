@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WIN_20220326_19_59_13_Pro.jpg</filename>
+	<path>C:\Users\QI\Desktop\mydata\images\WIN_20220326_19_59_13_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ok_hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>888</xmin>
+			<ymin>141</ymin>
+			<xmax>1166</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

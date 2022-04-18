@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2012</folder>
+	<filename>thumbup102.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\hand_datasets\thumbup\thumbup102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>192</ymin>
+			<xmax>514</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

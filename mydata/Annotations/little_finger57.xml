@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2012</folder>
+	<filename>little_finger57.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\hand_datasets\little_finger\little_finger57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>little_finger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>202</ymin>
+			<xmax>560</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

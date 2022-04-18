@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WIN_20220326_19_54_01_Pro.jpg</filename>
+	<path>C:\Users\QI\Desktop\mydata\images\WIN_20220326_19_54_01_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand_with_fingers_splayed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>181</ymin>
+			<xmax>1138</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

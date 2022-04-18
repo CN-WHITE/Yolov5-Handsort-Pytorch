@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2012</folder>
+	<filename>raised_fist15.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\hand_datasets\raised_fist\raised_fist15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raised_fist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>133</ymin>
+			<xmax>345</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

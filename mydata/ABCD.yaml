@@ -1,0 +1,13 @@
+# Custom data for safety helmet
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: mydata/images
+val: mydata/images
+
+# number of classes
+nc: 11
+
+# class names
+names: ['four_fingers', 'hand_with_fingers_splayed', 'index_pointing_up', 'little_finger', 'ok_hand',
+           'raised_fist', 'raised_hand', 'sign_of_the_horns', 'three', 'thumbup', 'victory_hand']
