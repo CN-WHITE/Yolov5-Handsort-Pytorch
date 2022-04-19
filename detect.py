@@ -49,7 +49,7 @@ from utils.torch_utils import select_device, time_sync
 # my_add
 # from airsim_control import classed_jug
 # gesture_from_model = ''
-from DroneController.control_test import *
+from DroneController.control_drone import *
 
 @torch.no_grad()
 def run(weights='runs/train/exp13/weights/best.pt',  # model.pt path(s)
