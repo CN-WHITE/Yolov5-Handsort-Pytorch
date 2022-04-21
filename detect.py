@@ -80,7 +80,6 @@ def run(weights='runs/train/exp13/weights/best.pt',  # model.pt path(s)
         dnn=False,  # use OpenCV DNN for ONNX inference
         ):
 
-
     source = str(source)
     save_img = not nosave and not source.endswith('.txt')  # save inference images
     is_file = Path(source).suffix[1:] in (IMG_FORMATS + VID_FORMATS)
@@ -163,7 +162,6 @@ def run(weights='runs/train/exp13/weights/best.pt',  # model.pt path(s)
                     s += f"{n} {names[int(c)]}{'s' * (n > 1)}, "  # add to string
 
                     # my_add
-                    # classed_jug(names[int(c)])
                     ges = names[int(c)]
 
                 # Write results
